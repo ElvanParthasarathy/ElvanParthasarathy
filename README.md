@@ -5,7 +5,8 @@
     <img alt="Jai Logo" src="./assets/jv2tra-light.svg" width="120" height="120">
   </picture>
   
-  <h1>Elvan Parthasarathy (Jaiprakash P)</h1>
+  <h1>Elvan Parthasarathy</h1>
+  <p><i>Official Name: Jaiprakash P</i></p>
   <p>Final-year ECE student with full-stack development experience across React, TypeScript, and native Android (Kotlin).</p>
   
   <p>
