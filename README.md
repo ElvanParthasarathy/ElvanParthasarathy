@@ -35,11 +35,11 @@
   <img alt="icon" src="./assets/ph-wrench-light.svg" width="24" height="24" align="center">
 </picture>&nbsp;Technical Skills
 
-<img alt="skill-code" src="./assets/skill-code.svg" width="20" height="20" align="center"> **Languages & Frameworks:** HTML, CSS, React, TypeScript, Java (Basics), C++ (Basics), Python (Basics)
+*   **Languages & Frameworks:** HTML, CSS, React, TypeScript, Java (Basics), C++ (Basics), Python (Basics)
 
-<img alt="skill-database" src="./assets/skill-database.svg" width="20" height="20" align="center"> **Databases & DevOps:** NoSQL Database, SQL, Git, GitHub, Vercel
+*   **Databases & DevOps:** NoSQL Database, SQL, Git, GitHub, Vercel
 
-<img alt="skill-network" src="./assets/skill-network.svg" width="20" height="20" align="center"> **Networking & Professional:** Computer Networks, Internet of Things (IoT), Digital Electronics, Sensors & Actuators, UI/UX Design, Technical Writing, Team Collaboration
+*   **Networking & Professional:** Computer Networks, Internet of Things (IoT), Digital Electronics, Sensors & Actuators, UI/UX Design, Technical Writing, Team Collaboration
 
 ---
 
@@ -52,29 +52,29 @@
 ### 1. [Neram — Full-Stack Academic Management System](https://github.com/elvanparthasarathy/neram)
 *Designed and built a multi-platform academic management system with a React web app, Android app, and role-based admin dashboard.*
 
-<img alt="bullet-project" src="./assets/bullet-project.svg" width="18" height="18" align="center"> Implemented authentication, role-based access control (RBAC), real-time NoSQL synchronization, and academic content management.
+*   Implemented authentication, role-based access control (RBAC), real-time NoSQL synchronization, and academic content management.
 
-<img alt="bullet-project" src="./assets/bullet-project.svg" width="18" height="18" align="center"> Developed Elvan Agazhi, an OCR-assisted workflow that converts academic calendar PDFs into structured digital records. 
+*   Developed Elvan Agazhi, an OCR-assisted workflow that converts academic calendar PDFs into structured digital records. 
 
-<img alt="bullet-project" src="./assets/bullet-project.svg" width="18" height="18" align="center"> Deployed the web application on Vercel, with the Android application published on Google Play.
+*   Deployed the web application on Vercel, with the Android application published on Google Play.
 
-<img alt="bullet-stack" src="./assets/bullet-stack.svg" width="18" height="18" align="center"> **Tech Stack:** React • JavaScript • Kotlin • NoSQL Database • Git • Vercel
+*   **Tech Stack:** React • JavaScript • Kotlin • NoSQL Database • Git • Vercel
 
 ### 2. [Elvan Portfolio OS — Interactive Operating System Portfolio](https://github.com/elvanparthasarathy/ElvanPortfolioOs)
 *Designed and built an operating system-inspired portfolio with independent Desktop and Mobile experiences.*
 
-<img alt="bullet-project" src="./assets/bullet-project.svg" width="18" height="18" align="center"> Developed a custom window management system with draggable, resizable, minimize/maximize windows, and dynamic taskbar interactions.
+*   Developed a custom window management system with draggable, resizable, minimize/maximize windows, and dynamic taskbar interactions.
 
-<img alt="bullet-project" src="./assets/bullet-project.svg" width="18" height="18" align="center"> Integrated projects, certifications, documents, and utilities into a unified interactive workspace.
+*   Integrated projects, certifications, documents, and utilities into a unified interactive workspace.
 
-<img alt="bullet-stack" src="./assets/bullet-stack.svg" width="18" height="18" align="center"> **Tech Stack:** React • TypeScript • Git • Vercel • NoSQL Database
+*   **Tech Stack:** React • TypeScript • Git • Vercel • NoSQL Database
 
 ### 3. [Elvan Navil — Multilingual Digital Publishing & CMS](https://github.com/elvanparthasarathy/elvan-navil)
 *Designed a multilingual digital publishing platform with a bilingual (Tamil/English) user interface and integrated Content Management System (CMS).*
 
-<img alt="bullet-project" src="./assets/bullet-project.svg" width="18" height="18" align="center"> Built a modular content management architecture supporting rich-text editing, real-time synchronization, and dynamic routing.
+*   Built a modular content management architecture supporting rich-text editing, real-time synchronization, and dynamic routing.
 
-<img alt="bullet-stack" src="./assets/bullet-stack.svg" width="18" height="18" align="center"> **Tech Stack:** React • TypeScript • NoSQL Database • Git • Vercel
+*   **Tech Stack:** React • TypeScript • NoSQL Database • Git • Vercel
 
 ---
 
@@ -84,11 +84,11 @@
   <img alt="icon" src="./assets/ph-trophy-light.svg" width="24" height="24" align="center">
 </picture>&nbsp;Achievements & Presentations
 
-<img alt="bullet-award" src="./assets/bullet-award.svg" width="20" height="20" align="center"> **COULOMB 2025 (2nd Prize):** Paper Presentation on Piezoelectric Material-Based Instant Charging System for EVs.
+*   **COULOMB 2025 (2nd Prize):** Paper Presentation on Piezoelectric Material-Based Instant Charging System for EVs.
 
-<img alt="bullet-award" src="./assets/bullet-award.svg" width="20" height="20" align="center"> **KalaQuest, IIT Madras:** Finalist; Business Pitch on Preserving Endangered Indian Crafts.
+*   **KalaQuest, IIT Madras:** Finalist; Business Pitch on Preserving Endangered Indian Crafts.
 
-<img alt="bullet-award" src="./assets/bullet-award.svg" width="20" height="20" align="center"> **ARTC-23 National Conference:** Paper Presentation on Electric Vehicles: Pioneering a World of Sustainable Transportation.
+*   **ARTC-23 National Conference:** Paper Presentation on Electric Vehicles: Pioneering a World of Sustainable Transportation.
 
 <br />
 <div align="center">
