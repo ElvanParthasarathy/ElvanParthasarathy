@@ -4,7 +4,7 @@ import re
 
 assets_dir = 'D:/Projects/ElvanParthasarathy/assets'
 
-url = 'https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg'
+url = 'https://cdn.simpleicons.org/linkedin'
 
 def wrap_in_ios_squircle(svg_data, mode):
     bg_color = '#ffffff' if mode == 'dark' else '#181717'
