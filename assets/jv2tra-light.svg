@@ -1,0 +1,11 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 795.21 795.21">
+  <ns0:rect x="0" y="0" width="795.21" height="795.21" fill="none" />
+  <ns0:g>
+    <ns0:g>
+      <ns0:circle cx="119.42" cy="467.67" r="115.93" fill="#181717" />
+      <ns0:polygon points="0 208.39 236.8 364.25 235.37 208.39 0 208.39" fill="#181717" />
+    </ns0:g>
+    <ns0:polygon points="441.11 210.03 263.85 583.61 610.93 583.61 441.11 210.03" fill="#181717" />
+    <ns0:rect x="661.07" y="210.03" width="130.93" height="373.58" fill="#181717" />
+  </ns0:g>
+</ns0:svg>

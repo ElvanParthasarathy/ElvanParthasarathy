@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
-    <img alt="Jai Logo" src="./assets/logo-light.svg" width="120" height="120">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/jv2tra-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/jv2tra-light.svg">
+    <img alt="Jai Logo" src="./assets/jv2tra-light.svg" width="120" height="120">
   </picture>
   
   <h1>Elvan Parthasarathy (Jaiprakash P)</h1>
