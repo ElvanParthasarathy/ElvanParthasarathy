@@ -1,24 +1,18 @@
 <div align="center">
-  <img src="./assets/JV2(DB).svg" alt="Jai Logo" width="120" height="120" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
+    <img alt="Jai Logo" src="./assets/logo-light.svg" width="120" height="120">
+  </picture>
+  
   <h1>Elvan Parthasarathy (Jaiprakash P)</h1>
   <p>Final-year ECE student with full-stack development experience across React, TypeScript, and native Android (Kotlin).</p>
   
   <p>
-    <a href="mailto:Jaiprakashpartha@gmail.com">
-      <img src="./assets/email-svgrepo-com.svg" width="30" alt="Email" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/jaiprakashpartha">
-      <img src="./assets/linkedin-svgrepo-com.svg" width="30" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/elvanparthasarathy">
-      <img src="./assets/github-142-svgrepo-com.svg" width="30" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://jaiprakashpartha.vercel.app">
-      <img src="./assets/location-pin-filled-svgrepo-com.svg" width="30" alt="Portfolio" />
-    </a>
+    <a href="mailto:Jaiprakashpartha@gmail.com"><img src="./assets/email-svgrepo-com.svg" width="30" alt="Email" /></a>
+    <a href="https://linkedin.com/in/jaiprakashpartha"><img src="./assets/linkedin-svgrepo-com.svg" width="30" alt="LinkedIn" /></a>
+    <a href="https://github.com/elvanparthasarathy"><img src="./assets/github-142-svgrepo-com.svg" width="30" alt="GitHub" /></a>
+    <a href="https://jaiprakashpartha.vercel.app"><img src="./assets/location-pin-filled-svgrepo-com.svg" width="30" alt="Portfolio" /></a>
   </p>
 </div>
 
