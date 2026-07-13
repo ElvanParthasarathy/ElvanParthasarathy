@@ -10,22 +10,30 @@
   <p>Final-year ECE student with full-stack development experience across React, TypeScript, and native Android (Kotlin).</p>
   
   <p>
-    <a href="mailto:Jaiprakashpartha@gmail.com"><img src="./assets/email-svgrepo-com.svg" width="30" alt="Email" /></a>
-    <a href="https://linkedin.com/in/jaiprakashpartha"><img src="./assets/linkedin-svgrepo-com.svg" width="30" alt="LinkedIn" /></a>
-    <a href="https://github.com/elvanparthasarathy"><img src="./assets/github-142-svgrepo-com.svg" width="30" alt="GitHub" /></a>
-    <a href="https://jaiprakashpartha.vercel.app"><img src="./assets/location-pin-filled-svgrepo-com.svg" width="30" alt="Portfolio" /></a>
+    <a href="mailto:Jaiprakashpartha@gmail.com"><img src="./assets/ph-email.svg" width="30" alt="Email" /></a>
+    <a href="https://linkedin.com/in/jaiprakashpartha"><img src="./assets/ph-linkedin.svg" width="30" alt="LinkedIn" /></a>
+    <a href="https://github.com/elvanparthasarathy"><img src="./assets/ph-github.svg" width="30" alt="GitHub" /></a>
+    <a href="https://jaiprakashpartha.vercel.app"><img src="./assets/ph-globe.svg" width="30" alt="Portfolio" /></a>
   </p>
 </div>
 
 <br />
 
-## About Me
+## <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ph-user-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ph-user-light.svg">
+  <img alt="icon" src="./assets/ph-user-light.svg" width="24" height="24" align="center">
+</picture>&nbsp;About Me
 
 > I am a final-year Electronics and Communication Engineering student interested in software development and application design. Through my academic and personal projects, I have built web and Android applications while gaining practical experience with modern development tools and technologies.
 
 ---
 
-## Technical Skills
+## <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ph-wrench-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ph-wrench-light.svg">
+  <img alt="icon" src="./assets/ph-wrench-light.svg" width="24" height="24" align="center">
+</picture>&nbsp;Technical Skills
 
 *   **Languages & Frameworks:** HTML, CSS, React, TypeScript, Java (Basics), C++ (Basics), Python (Basics)
 *   **Databases & DevOps:** NoSQL Database, SQL, Git, GitHub, Vercel
@@ -33,7 +41,11 @@
 
 ---
 
-## Featured Projects
+## <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ph-rocket-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ph-rocket-light.svg">
+  <img alt="icon" src="./assets/ph-rocket-light.svg" width="24" height="24" align="center">
+</picture>&nbsp;Featured Projects
 
 ### 1. [Neram — Full-Stack Academic Management System](https://github.com/elvanparthasarathy/neram)
 *Designed and built a multi-platform academic management system with a React web app, Android app, and role-based admin dashboard.*
@@ -55,7 +67,11 @@
 
 ---
 
-## Achievements & Presentations
+## <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ph-trophy-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ph-trophy-light.svg">
+  <img alt="icon" src="./assets/ph-trophy-light.svg" width="24" height="24" align="center">
+</picture>&nbsp;Achievements & Presentations
 
 *   **COULOMB 2025 (2nd Prize):** Paper Presentation on Piezoelectric Material-Based Instant Charging System for EVs.
 *   **KalaQuest, IIT Madras:** Finalist; Business Pitch on Preserving Endangered Indian Crafts.
